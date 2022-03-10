@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590147314 source:d:\facultate\p1\projectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
